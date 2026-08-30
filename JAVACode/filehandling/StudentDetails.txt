@@ -1,0 +1,6 @@
+Student Details
+-----------------------
+Name : Bindu
+USN : 1BI22CS001
+Department : ISE
+College : BIT

@@ -1,0 +1,9 @@
+Student Details
+-----------------------
+Name : Bindu
+USN : 1BI22CS001
+Department : ISE
+College : BIT
+
+Phone : 9876543210
+Email : bindu@gmail.com
